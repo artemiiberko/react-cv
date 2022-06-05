@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterWrap>
-        <FooterText>Artemii Berko © 2021. All rights reserved.</FooterText>
+        <FooterText>Artemii Berko © 2022. All rights reserved.</FooterText>
       </FooterWrap>
     </FooterContainer>
   )

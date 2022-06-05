@@ -3,6 +3,8 @@ import Icon1 from "../../images/project-primeone.png"
 import Icon2 from "../../images/project-sortedtable.png"
 import Icon3 from "../../images/project-chat.png"
 import Icon4 from "../../images/project-weatherapp.png"
+import Icon5 from "../../images/project-adminpanel.png"
+import Icon6 from "../../images/project-foodapp.jpg"
 
 import {
   ProjectsContainer,
@@ -19,6 +21,25 @@ const Projects = () => {
     <ProjectsContainer id="projects">
       <ProjectsH1>My Projects</ProjectsH1>
       <ProjectsWrapper>
+        <ProjectsCard target="_blank" href="https://mini-admin.netlify.app/">
+          <ProjectsIcon src={Icon5} />
+          <ProjectsH2>Admin Panel</ProjectsH2>
+          <ProjectsP>
+            React Application with RestApi, Login, Tables with adding, editing
+            and deleting records
+          </ProjectsP>
+        </ProjectsCard>
+        <ProjectsCard
+          target="_blank"
+          href="https://www.youtube.com/watch?v=QzAbcwrSYrU"
+        >
+          <ProjectsIcon src={Icon6} />
+          <ProjectsH2>Food Scanner</ProjectsH2>
+          <ProjectsP>
+            Mobile App created using React Native. Scan the food and calculate
+            daily intake of calories and PFC
+          </ProjectsP>
+        </ProjectsCard>
         <ProjectsCard
           target="_blank"
           href="https://artemiiberko.github.io/primeone/"

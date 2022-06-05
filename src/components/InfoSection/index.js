@@ -17,7 +17,8 @@ import {
 import img from "../../images/svg-1.svg"
 import tech_1 from "../../images/tech_1.png"
 import tech_2 from "../../images/tech_2.png"
-import tech_3 from "../../images/tech_3.png"
+import tech_5 from "../../images/tech_5.png"
+import tech_4 from "../../images/tech_4.png"
 
 const InfoSection = ({
   lightBg,
@@ -42,8 +43,9 @@ const InfoSection = ({
                 <Subtitle darkTextDesc={darkTextDesc}>{description}</Subtitle>
                 <TechWrap>
                   <TechImg src={tech_1} />
+                  <TechImg src={tech_4} />
                   <TechImg src={tech_2} />
-                  <TechImg src={tech_3} />
+                  <TechImg src={tech_5} />
                 </TechWrap>
               </TextWrapper>
             </Column1>
