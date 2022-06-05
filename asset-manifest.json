@@ -1,29 +1,32 @@
 {
   "files": {
     "main.css": "/react-cv/static/css/main.64b24a9c.chunk.css",
-    "main.js": "/react-cv/static/js/main.a76efe1e.chunk.js",
-    "main.js.map": "/react-cv/static/js/main.a76efe1e.chunk.js.map",
+    "main.js": "/react-cv/static/js/main.d530a964.chunk.js",
+    "main.js.map": "/react-cv/static/js/main.d530a964.chunk.js.map",
     "runtime-main.js": "/react-cv/static/js/runtime-main.c5398165.js",
     "runtime-main.js.map": "/react-cv/static/js/runtime-main.c5398165.js.map",
-    "static/js/2.0b52ff92.chunk.js": "/react-cv/static/js/2.0b52ff92.chunk.js",
-    "static/js/2.0b52ff92.chunk.js.map": "/react-cv/static/js/2.0b52ff92.chunk.js.map",
+    "static/js/2.6ac0f12d.chunk.js": "/react-cv/static/js/2.6ac0f12d.chunk.js",
+    "static/js/2.6ac0f12d.chunk.js.map": "/react-cv/static/js/2.6ac0f12d.chunk.js.map",
     "index.html": "/react-cv/index.html",
     "static/css/main.64b24a9c.chunk.css.map": "/react-cv/static/css/main.64b24a9c.chunk.css.map",
-    "static/js/2.0b52ff92.chunk.js.LICENSE.txt": "/react-cv/static/js/2.0b52ff92.chunk.js.LICENSE.txt",
+    "static/js/2.6ac0f12d.chunk.js.LICENSE.txt": "/react-cv/static/js/2.6ac0f12d.chunk.js.LICENSE.txt",
+    "static/media/project-adminpanel.c4970def.png": "/react-cv/static/media/project-adminpanel.c4970def.png",
     "static/media/project-chat.4e08bcbc.png": "/react-cv/static/media/project-chat.4e08bcbc.png",
+    "static/media/project-foodapp.adee2a4e.jpg": "/react-cv/static/media/project-foodapp.adee2a4e.jpg",
     "static/media/project-primeone.9243463b.png": "/react-cv/static/media/project-primeone.9243463b.png",
     "static/media/project-sortedtable.f648d9d9.png": "/react-cv/static/media/project-sortedtable.f648d9d9.png",
     "static/media/project-weatherapp.01c0365e.png": "/react-cv/static/media/project-weatherapp.01c0365e.png",
     "static/media/svg-1.e30c2918.svg": "/react-cv/static/media/svg-1.e30c2918.svg",
     "static/media/tech_1.957a7d90.png": "/react-cv/static/media/tech_1.957a7d90.png",
     "static/media/tech_2.3abb3de3.png": "/react-cv/static/media/tech_2.3abb3de3.png",
-    "static/media/tech_3.b7d94634.png": "/react-cv/static/media/tech_3.b7d94634.png",
+    "static/media/tech_4.3ac76118.png": "/react-cv/static/media/tech_4.3ac76118.png",
+    "static/media/tech_5.3cda7786.png": "/react-cv/static/media/tech_5.3cda7786.png",
     "static/media/video.22acab75.mp4": "/react-cv/static/media/video.22acab75.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c5398165.js",
-    "static/js/2.0b52ff92.chunk.js",
+    "static/js/2.6ac0f12d.chunk.js",
     "static/css/main.64b24a9c.chunk.css",
-    "static/js/main.a76efe1e.chunk.js"
+    "static/js/main.d530a964.chunk.js"
   ]
 }
